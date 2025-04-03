@@ -4,9 +4,10 @@ table {
 }
 
 td {
-  list-style-type: none; 
-  display: flex;  
-  justify-content: space-between;  
+ list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
 
  
 
